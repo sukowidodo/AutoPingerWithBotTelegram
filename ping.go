@@ -1,3 +1,6 @@
+/**
+Created by Suko Widodo
+**/
 package main
 
 import (
